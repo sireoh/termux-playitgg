@@ -26,8 +26,6 @@ cd ..
 java -Xmx4096M -Xms4096M -jar server.jar nogui
 ```
 
-And run : `playit`
-
 # Manifest
 
 EN: this repository is free code, you can use it without any problem.
